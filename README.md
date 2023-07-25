@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Machine Learning Projects, Cybersecurity, Open Source projects.
 - 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/kandiabhishek08/)
--⚡ Fun fact: If I start, I can't stop talking 😄
+- ⚡ Fun fact: If I start, I can't stop talking 😄
 
 ## Current Roles  
 - Forensics Team Lead , [Team bi0s](https://bi0s.in/)
