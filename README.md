@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 - Winner in the Capture the flag Information security Contest Conducted by Salesforce at Nullcon.[Post](https://www.linkedin.com/feed/update/urn:li:activity:7111769167078334464/)
 - Top 9th position in the Cybersecurity Information security Contest Conducted by BugBase.[Post](https://www.linkedin.com/in/kandiabhishek08/overlay/1635532926828/single-media-viewer/?profileId=ACoAADYCkX4BdrCHHpRfQwo73mqwkFULzXsO7v0)
 - Top 3rd position in the Cybersecurity Information security Contest Conducted by [IIIT Kottayam](https://www.iiitkottayam.ac.in/#!/home).
-- Top 7th position in the Cybersecurity Information security Contest Conducted by [Bits Pilani]
+- Top 7th position in the Cybersecurity Information security Contest Conducted by Bits Pilani
 - 20x – Google Cloud Certified. 
   
 
