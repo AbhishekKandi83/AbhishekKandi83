@@ -12,7 +12,7 @@
 
 ## Current Roles  
 - Forensics Team Lead , [Team bi0s](https://bi0s.in/)
-- Capture the Flag Team Player and Security Resrecaher , [Team bi0s](https://bi0s.in/)
+- Capture the Flag Team Player and Security Reseacher , [Team bi0s](https://bi0s.in/)
 
 <!---
 AbhishekKandi83/AbhishekKandi83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
