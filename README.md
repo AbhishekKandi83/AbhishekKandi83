@@ -1,6 +1,6 @@
 ## 👋 Hi there
 -  I’m Kandi Abhishek Reddy a Computer Science and Electronics Graduate at [Amrita Vishwa Vidyapeetham,Bangalore](https://www.amrita.edu/).
--  I love to learn new things, play a round of Cricket,Football and talk about anything 😄.
+-  I love to learn new things, play a round of Cricket , Football and talk about anything 😄.
 ## About Me
 - I am an active member of [Team bi0s  India's No.1 Ranked CTF Team and Cyber Security Research Community](https://bi0s.in/). Being part of this esteemed team has provided me with invaluable opportunities to enhance my expertise in various areas such as Malware Analysis, Social Engineering, Digital Forensics and Incident Response.
 - 🔭  I’m currently working on [Cybersecurity](https://bi0sblr.in/) and [Cloud Computing](https://cloud.google.com/)
@@ -21,8 +21,8 @@ You can click the Preview link to take a look at your changes.
 
 ## My Achievements
 - Team bi0s - India's No.1 Ranked Capture the Flag Team and Cyber Security Research Community.
-- Winner in the Capture the flag Information security Contest Conducted by Salesforce at Nullcon.
-- Top 9th position in the Cybersecurity Information security Contest Conducted by BugBase.
+- Winner in the Capture the flag Information security Contest Conducted by Salesforce at Nullcon.[Post](https://www.linkedin.com/feed/update/urn:li:activity:7111769167078334464/)
+- Top 9th position in the Cybersecurity Information security Contest Conducted by BugBase.[Post](https://www.linkedin.com/in/kandiabhishek08/overlay/1635532926828/single-media-viewer/?profileId=ACoAADYCkX4BdrCHHpRfQwo73mqwkFULzXsO7v0)
 - Top 3rd position in the Cybersecurity Information security Contest Conducted by [IIIT Kottayam](https://www.iiitkottayam.ac.in/#!/home).
 - Top 7th position in the Cybersecurity Information security Contest Conducted by Bits Pilani.
 - 20x – Google Cloud Certified. 
