@@ -4,7 +4,7 @@
 ## About Me
 - I am an active member of [Team bi0s  India's No.1 Ranked CTF Team and Cyber Security Research Community](https://bi0s.in/). Being part of this esteemed team has provided me with invaluable opportunities to enhance my expertise in various areas such as Malware Analysis, Social Engineering, Digital Forensics and Incident Response.
 - 🔭  I’m currently working on [Cybersecurity](https://bi0sblr.in/) and [Cloud Computing](https://cloud.google.com/)
-- 🌱 I’m currently learning about Malwares, Cyber-operations, Machine Learning, and Book-Chapter on Stuxnet A Deep Dive On Memory Forensics .
+- 🌱 I’m currently learning about Malwares, Cyber-operations, Machine Learning, and Writing a Book-Chapter on Stuxnet A Deep Dive On Memory Forensics .
 - 👯 I’m looking to collaborate on Machine Learning Projects, Cybersecurity, Open Source projects.
 - 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/kandiabhishek08/)
