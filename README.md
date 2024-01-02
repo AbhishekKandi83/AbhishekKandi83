@@ -32,6 +32,8 @@ You can click the Preview link to take a look at your changes.
 - Top 7th position in the Cybersecurity Information security Contest Conducted by Bits Pilani
 - 20x – Google Cloud Certified. 
 
+## Exploits 
+
 ## A "Real World" Exploit , Linux Privilege escalation vulnerabilities in Kali Linux.
 - Most computer systems are designed to be used by multiple users. Privileges mean what a user is permitted to do. Common privileges include viewing and editing files or modifying system files. Privilege escalation refers to when a user receives privileges they are not entitled to. These privileges can be used to delete files, view private information, or install unwanted programs such as viruses. It usually occurs when a system has a bug that allows security to be bypassed or, alternatively, has flawed design assumptions about its use.
 
