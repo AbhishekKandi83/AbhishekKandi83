@@ -1,4 +1,4 @@
-## 👋 Hi there , An Aspiring Security Researcher - [Masterchief88](https://bi0s.in/members)
+## 👋 Hi there , An Aspiring Security Researcher - [St3xnet](https://bi0s.in/members)
 
 ## About Me
 - I am an active member of [Team bi0s  India's No.1 Ranked CTF Team and Cyber Security Research Community](https://bi0s.in/). Being part of this esteemed team has provided me with invaluable opportunities to enhance my expertise in various areas such as Malware Analysis, Social Engineering, Digital Forensics and Incident Response.
