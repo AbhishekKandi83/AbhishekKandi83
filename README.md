@@ -1,16 +1,17 @@
 ## 👋 Hi there I am an aspiring Security Researcher - [masterchief88](https://bi0s.in/members)
 
 ## About Me
-- I am an active member of [Team bi0s  India's No.1 Ranked CTF Team and Cyber Security Research Community](https://bi0s.in/). Being part of this esteemed team has provided me with invaluable opportunities to enhance my expertise in various areas such as Malware Analysis, Social Engineering, Digital Forensics and Incident Response.
-- 🔭  I’m currently working on [Cybersecurity](https://bi0sblr.in/) and [Cloud Computing](https://cloud.google.com/)
-- 🌱 I’m currently learning about Malwares, Incident Response , Machine Learning, and Writing a Book-Chapter on Stuxnet A Deep Dive On Memory Forensics .
-- 👯 I’m looking to collaborate on Machine Learning Projects, Cybersecurity, Open Source projects.
+- I am an active member of [Team bi0s  India's No.1 Ranked CTF Team and Cyber Security Research Community](https://bi0s.in/). 
+- 🔭 I’m currently working on [Cybersecurity](https://bi0sblr.in/) and [Cloud Computing](https://cloud.google.com/)
+- I am also Currently working and learning on Linux Kernel Security
+   - Kernel Exploitation
+
 - 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/kandiabhishek08/)
 - ⚡ Fun fact: If I start, I can't stop talking 😄
 
 ## Current Roles  
-- Forensics Team Lead , [Team bi0s](https://bi0s.in/)
+- Ex-Forensics Team Lead , [Team bi0s](https://bi0s.in/)
 - Capture the Flag Team Player and Security Reseacher , [Team bi0s](https://bi0s.in/)
 
 <!---
