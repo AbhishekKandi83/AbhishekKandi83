@@ -3,8 +3,7 @@
 ## About Me
 - I am an active member of [Team bi0s  India's No.1 Ranked CTF Team and Cyber Security Research Community](https://bi0s.in/). 
 - 🔭 I’m currently working on [Cybersecurity](https://bi0sblr.in/) and [Cloud Computing](https://cloud.google.com/)
-- I am also Currently working and learning on Linux Kernel Security
-   - Kernel Exploitation
+- I am also Currently working and learning on Linux Kernel Security and exploitations
 
 - 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/kandiabhishek08/)
