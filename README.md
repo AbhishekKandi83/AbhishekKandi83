@@ -1,5 +1,3 @@
-## 👋 Hi there I am an aspiring Security Researcher - [masterchief88](https://bi0s.in/members)
-
 ## About Me
 - I am an active member of [Team bi0s  India's No.1 Ranked CTF Team and Cyber Security Research Community](https://bi0s.in/). 
 - 🔭 I’m currently working on [Cybersecurity](https://bi0sblr.in/) and [Cloud Computing](https://cloud.google.com/)
