@@ -3,10 +3,6 @@
 - 🔭 I’m currently working on [Cybersecurity](https://bi0sblr.in/) and [Cloud Computing](https://cloud.google.com/)
 - I am also Currently working and learning on Linux Kernel Security and exploitations
 
-- 📫 How to reach me:
-- [Linkedin](https://www.linkedin.com/in/kandiabhishek08/)
-- ⚡ Fun fact: If I start, I can't stop talking 😄
-
 ## Current Roles  
 - Ex-Forensics Team Lead , [Team bi0s](https://bi0s.in/)
 - Capture the Flag Team Player and Security Reseacher , [Team bi0s](https://bi0s.in/)
